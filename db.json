@@ -17,8 +17,8 @@
     { "id": 3, "title": "Todo 3", "userId": 3 }
   ],
   "users": [
-    { "id": 1, "title": "Ladi" },
-    { "id": 2, "title": "Paul" },
-    { "id": 3, "title": "Sebastian" }
+    { "id": 1, "name": "Ladi" },
+    { "id": 2, "name": "Paul" },
+    { "id": 3, "name": "Sebastian" }
   ]
 }
