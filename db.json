@@ -1,24 +1,24 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "userId": 2 },
-    { "id": 2, "title": "Post 2", "userId": 3 },
-    { "id": 3, "title": "Post 3", "userId": 1 }
+    { "id": "1", "title": "Post 1", "userId": "2" },
+    { "id": "2", "title": "Post 2", "userId": "3" },
+    { "id": "3", "title": "Post 3", "userId": "1" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": "1", "body": "some comment", "postId": "1" },
+    { "id": "2", "body": "some comment", "postId": "1" }
   ],
   "profile": {
     "name": "Ladi Adenusi"
   },
   "todos": [
-    { "id": 1, "title": "Todo 1", "userId": 1 },
-    { "id": 2, "title": "Todo 2", "userId": 2 },
-    { "id": 3, "title": "Todo 3", "userId": 3 }
+    { "id": "1", "title": "Todo 1", "userId": "1" },
+    { "id": "2", "title": "Todo 2", "userId": "2" },
+    { "id": "3", "title": "Todo 3", "userId": "3" }
   ],
   "users": [
-    { "id": 1, "name": "Ladi" },
-    { "id": 2, "name": "Paul" },
-    { "id": 3, "name": "Sebastian" }
+    { "id": "1", "name": "Ladi" },
+    { "id": "2", "name": "Paul" },
+    { "id": "3", "name": "Sebastian" }
   ]
 }
